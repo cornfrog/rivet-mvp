@@ -47,5 +47,5 @@ The project follows a modular, concern-separated architecture:
 
 ## 🐞 Bug Reporting & Contact
 
-Found a bug or want to collaborate? Reach out via the **About** page or contact the developer at [hello@cornfrog.dev](mailto:hello@cornfrog.dev).
+Found a bug or want to collaborate? Reach out via the **About** page or contact the developer at [thecornfrog@gmail.com](mailto:thecornfrog@gmail.com).
 
